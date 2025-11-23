@@ -1,5 +1,5 @@
 # Assignment-Test-for-Junior-Engineer---Gatot-Arifianto
-Assignment Test - Gator Arifianto
+Assignment Test - Gatot Arifianto
 import React, { useState, useEffect } from 'react';
 // Asumsi Tailwind CSS tersedia di lingkungan React Native/Web.
 // Menggunakan lucide-react untuk ikon.
